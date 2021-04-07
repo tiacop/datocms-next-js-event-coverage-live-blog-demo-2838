@@ -74,7 +74,7 @@ export default function Home({ subscription }) {
         </h3>
         <p className="mt-4 max-w-xl text-xl leading-7 text-gray-500 lg:mx-auto">
           A simple Next.js + Typescript + Tailwind project to demonstrate
-          real-time capabilities of DatoCMS
+          real-time capabilities of DatoCMS!
         </p>
       </div>
 

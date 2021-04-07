@@ -70,7 +70,7 @@ export default function Home({ subscription }) {
           Real-times Updates Demo
         </p>
         <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-5xl sm:leading-10">
-          Event Coverage LiveBlog
+          Event Coverage Tech Presentation
         </h3>
         <p className="mt-4 max-w-xl text-xl leading-7 text-gray-500 lg:mx-auto">
           A simple Next.js + Typescript + Tailwind project to demonstrate
